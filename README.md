@@ -1,2 +1,2 @@
 # Projeto Python
-Projeto para medir tamanho de objetos, com opencv
+ Project to measure object size with opencv
